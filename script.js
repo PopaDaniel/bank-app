@@ -5,7 +5,7 @@
 // BANKIST APP
 
 const account1 = {
-  owner: 'Daniel Popa',
+  owner: 'Mark John',
   movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
   interestRate: 1.2, // %
   pin: 1111,
@@ -25,7 +25,7 @@ const account1 = {
 };
 
 const account2 = {
-  owner: 'Ilaria Borontis',
+  owner: 'Joe Doe',
   movements: [5000, 3400, -150, -790, -3210, -1000, 8500, -30],
   interestRate: 1.5,
   pin: 2222,
@@ -45,7 +45,7 @@ const account2 = {
 };
 
 const account3 = {
-  owner: 'Adelina Micu',
+  owner: 'admin',
   movements: [5505, 240, -175, 490, -1230, -2000, 4530, -30],
   interestRate: 1.3,
   pin: 3333,
@@ -65,7 +65,7 @@ const account3 = {
 };
 
 const account4 = {
-  owner: 'Mihai James',
+  owner: 'James One',
   movements: [4335, 1240, -2175, 1590, -130, -1740, 2630, 700],
   interestRate: 1.4,
   pin: 4444,
